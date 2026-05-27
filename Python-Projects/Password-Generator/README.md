@@ -4,15 +4,7 @@ A modern and secure password generator built with **Python**, **CustomTkinter**,
 
 Generate strong passwords instantly, customize password settings, check password strength, copy passwords to your clipboard, and maintain a password history — all through a clean desktop interface.
 
----
-
-## 📸 Preview
-
-> Add screenshots of your application inside a `screenshots/` folder and update the image links below.
-
-```md
-![Main Window](screenshots/main.png)
-```
+````
 
 ---
 
@@ -60,7 +52,7 @@ password-generator-pro/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-```
+````
 
 ---
 
